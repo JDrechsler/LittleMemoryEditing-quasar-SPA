@@ -1,4 +1,4 @@
-# Quasar App - Test Bills Overview
+# Quasar App - Test Memory Editing
 
 > A Quasar project with full support for typescript using vue-class-component
 
